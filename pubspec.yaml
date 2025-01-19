@@ -1,0 +1,124 @@
+name: flutter_login_screens
+description: A new Flutter application.
+version: "1.0.0+1"
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: 1.0.8
+  get: ^4.6.6
+  just_audio: ^0.9.42
+  permission_handler: ^11.3.1
+  on_audio_query: ^2.9.0
+  google_fonts: ^6.2.1
+  shared_preferences: ^2.3.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/music2.jpg
+    - assets/images/sonic-spectrum_524305-31751.jpg
+    - assets/images/vibrant-particle-wave-abstract.jpg
+    - assets/images/pngtree-vibrant-beams-of-light-illuminate.jpg
+    - assets/images/holographic-music-visualization-vibrant-background_125583-633.jpg
+    - assets/images/playlist1.jpg
+    - assets/images/playlist2.jpg
+    - assets/images/playlist3.jpg
+    - assets/images/playlist4.jpg
+    - assets/images/5458203.jpg
+    - assets/images/background.jpg
+    - assets/images/8ojC2g.jpg
+    - assets/images/dark-night-river-forest-minimal-art.jpg
+    - assets/images/pngtree-music-notes-png-image_8660757.png
+    - assets/images/Music-icon-Melody-doodle-Note-on-stave-Graphics-69631818-1.png
+    - assets/images/music-band-clipart-transparent-background-free.png.webp
+    - assets/images/musical-notes-joypixels.gif
+    - assets/images/giphy.webp
+    - assets/images/music.gif
+    - assets/images/giphy (1).webp
+    - assets/images/giphy(2).webp
+    - assets/images/Animation - 1729006878435.gif
+    - assets/images/628348.jpg
+    - assets/images/807ca16b42e5fe7dc8a5794157076559.png
+    - assets/images/340559.jpg
+    - assets/images/Once-Upon-A-Time-In-Mumbaai-Hindi.jpg
+    - assets/images/size_l.jpg
+    - assets/images/dil_dhadakne_do.jpg
+    - assets/images/ab67616d0000b27352fe6875028c892308ffc2f7.jpeg
+    - assets/images/One Love Lyrics - Shubh.jpg
+    - assets/images/sultan.jpg
+    - assets/images/iktaara.jpg
+    - assets/images/no lie.jpg
+    - assets/images/arijitsingh.webp
+    - assets/images/Adele1.jpg
+    - assets/images/ar rahman.jpg
+    - assets/images/atif-aslam.jpg
+    - assets/images/dua-lipa.jpg
+    - assets/images/ed-sheeran.jpg
+    - assets/images/fatehalikhan.jpg
+    - assets/images/justin-bieber.jpg
+    - assets/images/KK.webp
+    - assets/images/shreyaghosal.jpg
+    - assets/images/taylor-swift.jpg
+    - assets/images/3-idiots.png
+    - assets/images/aashiki2.jpg
+    - assets/images/JabWeMet.jpg
+    - assets/images/YeJavaaniHaiDivani.jpg
+    - assets/images/Sairat.jpg
+    - assets/images/95020-anime.jpg
+    - assets/images/130525.jpg
+    - assets/images/kimi-no-na-wa-your-name.jpg
+    - assets/images/dark_anime.webp
+    - assets/images/33962-anime-748x42.jpg
+    - assets/images/giphy.gif
+    - assets/images/tumblr_nrlec0774m1uzwbyjo1_500.gif
+  # - images/a_dot_ham.jpeg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.io/assets-and-images/#resolution-aware.
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.io/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+      - family: icomoon
+        fonts:
+        - asset: assets/fonts/IcoMoon.ttf
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.io/custom-fonts/#from-packages
